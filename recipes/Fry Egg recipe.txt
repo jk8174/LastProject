@@ -1,0 +1,24 @@
+{
+    "title": "Scrambled Egg recipe",
+    "tags": [
+        "scrambled",
+        "classic",
+        "healthy"
+    ],
+    "ingredients": {
+        "olive oil or butter tablespoon": 0.5,
+        "salt pinch": 1,
+        "pepper pinch": 1,
+        "milk tea cup": 1,
+        "egg": 2,
+        "green onion bunch":0.5
+    },
+    "serves": 1,
+    "instructions":[
+    "Heat the olive oil.",
+    "Add the chopped green onions and cook them dow, stirring occasionally, for about 4 minutes.",
+    "Crack the number of eggs you need in a separate bowl and whisk them together with a fork.",
+    "Add the eggs and shredded cheese and stir until everything is combined.",
+    "Cook and stir everything together for 2 minutes or until the eggs are set.",
+    "Sprinkle with some salt and pepper to taste."]
+}

@@ -1,0 +1,27 @@
+{
+    "title": "Curried Egg Salad",
+    "tags": [
+        "salad",
+        "diet",
+        "delicious",
+        "strong"
+    ],
+    "ingredients": {
+        "grated carrot each": 1,
+        "salt pinch": 1,
+        "pepper pinch": 1,
+        "green onion each": 3,
+        "egg": 2,
+        "curry powder pinch": 1,
+        "Mayonnaise tablespoon": 2.0,
+        "parsley bunch": 0.5
+
+    },
+    "serves": 1,
+    "instructions":[
+    "Hard boil all the eggs and let them cool.",
+    "Once they are cool, slice the eggs into pieces but not too small.",
+    "Add the eggs, carrots, green onion, mayonnaise, curry powder, salt and pepper to a bowl.",
+    "Give everything a good stir until it's creamy and mixed together and add a sprinkle of parsley."]
+    }
+

@@ -1,0 +1,24 @@
+{
+    "title": "Fry Egg recipe",
+    "tags": [
+        "fried",
+        "classic",
+        "delicious"
+    ],
+    "ingredients": {
+        "oil or butter tablespoon": 0.5,
+        "salt pinch": 1,
+        "pepper pinch": 1,
+        "toast": 1,
+        "egg": 2
+    },
+    "serves": 1,
+    "instructions": [
+    "Place a pan on the stove, heating it on medium heat.",
+    "Use a pan with enough space to allow.",
+    "Add some oil or butter to the pan as it gets warm.",
+    "1/2 a tablespoon or so should be enough.",
+    "Allow the pan to warm up until the butter/oil is hot, but not browning.",
+    "A lower temperature is great break the first egg into a small dish or bowl and pour it in.",
+    "or crack the egg right in the pan."]
+}
